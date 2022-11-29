@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: mug_by_eric2.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Lancaster University</p>
