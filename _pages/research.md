@@ -24,7 +24,7 @@ nav_order: 1
 
 
 ##### Recent Working Papers #####
-- <a href="{{'/assets/pdf/bondmaturity_v1_15Nov.pdf'|relative_url}}">Local Preference for Bonds with Longer Maturity</a> (with [Peter Pope](https://accounting.unibocconi.eu/people/peter-francis-pope) and [Yang Wang](https://www.lancaster.ac.uk/lums/people/yang-wang)), _last updated: Nov 2022_\
+- <a href="{{'/assets/pdf/bondmaturity_v1_15Nov.pdf'|relative_url}}">Local Preference for Bonds with Longer Maturity</a> (with [Peter Pope](https://accounting.unibocconi.eu/people/peter-francis-pope) and [Yang Wang](https://www.lancaster.ac.uk/lums/people/yang-wang)), _last updated: Nov 2022_ \
 <small>Consistent with long-dated bonds being more information sensitive, insurance companies, one of the largest corporate bond investors, are more likely to hold long-term bonds from local issuers. As a result, their local bond holdings tend to have longer maturities. <small/>
 
 _theory papers before 2020_
