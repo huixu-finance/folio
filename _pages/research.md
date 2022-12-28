@@ -15,7 +15,7 @@ nav_order: 1
 
 
 ##### Papers Under Review #####
-- <a href="{{'/assets/pdf/GreenBonds_combined.pdf'|relative_url}}">Actions Speak Louder Than Words: The Valuation of Green Commitment in the Corporate Bond Market</a> (with [Peter Pope](https://accounting.unibocconi.eu/people/peter-francis-pope) and [Yang Wang](https://www.lancaster.ac.uk/lums/people/yang-wang)), _submitted_\
+- <a href="{{'/assets/pdf/GreenBonds_combined.pdf'|relative_url}}">Actions Speak Louder Than Words: The Valuation of Green Commitment in the Corporate Bond Market</a> (with [Peter Pope](https://accounting.unibocconi.eu/people/peter-francis-pope) and [Yang Wang](https://www.lancaster.ac.uk/lums/people/yang-wang)), Journal of Accounting Research, _revise & resubmit_\
 <small>Green bond issuance decreases the yield spreads of outstanding conventional bonds. This is at odds with the traditional theory where new issuance of debt would raise the issuer's leverage and dilute the existing bondholders' liquidation claim, but is consistent with green bonds being a commitment device and conventional bonds becoming "greener". <small/>
 
 - <a href="{{'/assets/pdf/esg_china_Nov2022.pdf'|relative_url}}">The China Trade Shock and the ESG Performances of US Firms</a> (with [Yue Wu](https://ibs.bfsu.edu.cn/en/teacher.aspx?m=20150306133438693116&t_id=20191125174245533558)), _submitted_\
